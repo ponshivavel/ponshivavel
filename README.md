@@ -16,13 +16,15 @@
   </a>
 </p>
 
-<h3>🚀 About Me</h3>
-<ul>
-  <li>🎓 3rd Year Student</li>
-  <li>💻 Java | Python | Machine Learning</li>
-  <li>🏢 Infosys Internship Project – <em>InsurAI</em></li>
-  <li>📊 Interested in Backend & Data roles</li>
-</ul>
+### 🚀 About Me
+Hi, I'm **Ponshivavel S K**, a 3rd Year AI & Data Science student passionate about **Machine Learning, Data Analysis, and AI-driven solutions**.  
 
+I have completed an **Infosys Internship Project – InsurAI**, a **Java Spring Boot full-stack application** for predicting insurance claim risk. This gave me hands-on experience in **backend APIs, frontend integration, and ML model deployment**.  
+
+I am interested in **AI, Data Projects, Backend Development, and building intelligent applications**.  
+
+Currently, I am enhancing my **DSA skills, web scraping abilities, and cloud computing knowledge**, while exploring **advanced ML algorithms and real-world data solutions**.  
+
+I enjoy **learning new AI & DS technologies, participating in coding challenges, and applying my skills to practical projects**.
 
 
