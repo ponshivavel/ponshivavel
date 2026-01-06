@@ -31,3 +31,6 @@ Currently, I am enhancing my **DSA skills, web scraping abilities, and cloud com
 I enjoy **learning new AI & DS technologies, participating in coding challenges, and applying my skills to practical projects**.
 
 
+
+🚀 Passionate Learner | 💻 AI & Backend Developer | 📊 Exploring Data-Driven Innovation  
+![Profile Views](https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20views&color=0e75b6&style=flat)
