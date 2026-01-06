@@ -14,6 +14,9 @@
   <a href="https://www.hackerrank.com/profile/ponshivavelsk" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="mailto:ponshivavelsk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ### 🚀 About Me
