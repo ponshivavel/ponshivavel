@@ -1,19 +1,28 @@
-## 👋 Hi, I'm Ponshivavel S K  
+<!-- 👋 Hi, I'm Ponshivavel S K -->
+<h2>👋 Hi, I'm Ponshivavel S K</h2>
 
-<p align="left">  
-  <a href="https://www.linkedin.com/in/ponshivavel-sk/" target="_blank">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>  
-  </a>  
-  <a href="https://leetcode.com/u/ponshivavel/" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>  
-  </a>  
-  <a href="https://www.kaggle.com/ponshivavelsk" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Kaggle_logo.png" width="40"/>  
-  </a>  
-</p>  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ponshivavel-sk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ponshivavel/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/ponshivavelsk" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ponshivavelsk" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
-### 🚀 About Me  
-- 🎓 3rd Year Student  
-- 💻 Java | Python | Machine Learning  
-- 🏢 Infosys Internship Project – *InsurAI*  
-- 📊 Interested in Backend & Data roles
+<h3>🚀 About Me</h3>
+<ul>
+  <li>🎓 3rd Year Student</li>
+  <li>💻 Java | Python | Machine Learning</li>
+  <li>🏢 Infosys Internship Project – <em>InsurAI</em></li>
+  <li>📊 Interested in Backend & Data roles</li>
+</ul>
+
+
+
