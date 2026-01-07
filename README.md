@@ -31,6 +31,16 @@ Currently, I am enhancing my **DSA skills, web scraping abilities, and cloud com
 I enjoy **learning new AI & DS technologies, participating in coding challenges, and applying my skills to practical projects**.
 
 
+<div align="center">
+<a href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Resume-Google%20Docs-blue?style=for-the-badge&logo=google-docs&logoColor=white"
+    alt="Resume Google Docs"
+  />
+</a>
+
 
 🚀 Passionate Learner | 💻 AI & Backend Developer | 📊 Exploring Data-Driven Innovation  
 ![Profile Views](https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
