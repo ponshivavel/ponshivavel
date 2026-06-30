@@ -20,7 +20,7 @@
 </p>
 
 ### 🚀 About Me
-Hi, I'm **Ponshivavel S K**, a 3rd Year AI & Data Science student passionate about **Machine Learning, Data Analysis, and AI-driven solutions**.  
+Hi, I'm **Ponshivavel S K**, a Final Year AI & Data Science student passionate about **Machine Learning, Data Analysis, and AI-driven solutions**.  
 
 I have completed an **Infosys Internship Project – InsurAI**, a **Java Spring Boot full-stack application** for predicting insurance claim risk. This gave me hands-on experience in **backend APIs, frontend integration, and ML model deployment**.  
 
