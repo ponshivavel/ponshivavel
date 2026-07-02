@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Ponshivavel S K 👋</h1>
-<h3 align="center">AI & Data Science Engineer | Full-Stack Developer | Applied AI Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ponshivavel%20S%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Applications;Full-Stack+%2B+Applied+AI+%2F+LLMs;Turning+Data+into+Real-World+Solutions;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ponshivavel-sk/" target="_blank">
@@ -93,6 +96,14 @@ I'm a **Final Year B.Tech student in Artificial Intelligence & Data Science** at
 
 ---
 
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ponshivavel&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 <table align="center">
@@ -152,3 +163,11 @@ I'm a **Final Year B.Tech student in Artificial Intelligence & Data Science** at
 <p align="center">
   <i>🚀 Passionate Learner &nbsp;|&nbsp; 💻 AI & Backend Developer &nbsp;|&nbsp; 📊 Exploring Data-Driven Innovation</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
