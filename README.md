@@ -1,12 +1,11 @@
-<!-- 👋 Hi, I'm Ponshivavel S K -->
-<h2>👋 Hi, I'm Ponshivavel S K</h2>
+# 👋 Hi, I'm Ponshivavel S K
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ponshivavel-sk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/ponshivavel/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.kaggle.com/ponshivavelsk" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -19,28 +18,39 @@
   </a>
 </p>
 
+---
+
 ### 🚀 About Me
-Hi, I'm **Ponshivavel S K**, a Final Year AI & Data Science student passionate about **Machine Learning, Data Analysis, and AI-driven solutions**.  
 
-I have completed an **Infosys Internship Project – InsurAI**, a **Java Spring Boot full-stack application** for predicting insurance claim risk. This gave me hands-on experience in **backend APIs, frontend integration, and ML model deployment**.  
+I am a **Final Year Artificial Intelligence & Data Science student** specializing in building intelligent, scalable, data-driven applications. My expertise bridges the gap between **Machine Learning** and **Robust Backend Engineering**.
 
-I am interested in **AI, Data Projects, Backend Development, and building intelligent applications**.  
+*   **💼 Industry Experience:** Completed an **Infosys Internship**, architecting **InsurAI**—a full-stack Java Spring Boot application utilizing predictive ML modeling for automated insurance claim risk assessment.
+*   **🎯 Core Focus:** Scalable backend APIs, predictive analytics, intelligent system integration, and data engineering pipelines.
+*   **🧠 Currently Mastering:** Advanced Data Structures & Algorithms (DSA), large-scale web scraping architectures, and cloud-native application deployment.
 
-Currently, I am enhancing my **DSA skills, web scraping abilities, and cloud computing knowledge**, while exploring **advanced ML algorithms and real-world data solutions**.  
+---
 
-I enjoy **learning new AI & DS technologies, participating in coding challenges, and applying my skills to practical projects**.
+### 🛠️ Technical Toolbox
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, SQL, C++ |
+| **Frameworks & Backends** | Spring Boot, Flask, FastAPI |
+| **Data Science & AI** | PySpark, Machine Learning (Scikit-Learn), Pandas, NumPy, Data Analysis |
+| **Developer Tools** | Git, GitHub, REST APIs, Docker |
+
+---
+
+### 📈 Current Metrics & Portfolio
 
 <div align="center">
-<a href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Resume-Google%20Docs-blue?style=for-the-badge&logo=google-docs&logoColor=white"
-    alt="Resume Google Docs"
-  />
-</a>
+  <a href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Review_My_Resume-Google_Docs-0E75B6?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Google Docs" />
+  </a>
 
-
-🚀 Passionate Learner | 💻 AI & Backend Developer | 📊 Exploring Data-Driven Innovation  
-![Profile Views](https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20views&color=0e75b6&style=flat)
-
+  <br/><br/>
+  🤖 <b>AI & Backend Engineer</b> | 📊 <b>Data Innovation Specialist</b>
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20views&color=0e75b6&style=flat)
 </div>
