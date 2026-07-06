@@ -33,8 +33,8 @@
 I'm a **Final Year B.Tech student in Artificial Intelligence &amp; Data Science** at V.S.B Engineering College, Karur, building intelligent, production-ready applications at the intersection of **AI and full-stack development**.
 
 - 🔭 Currently focused on **applied AI/LLM systems**, backend engineering, and interview-ready DSA
-- 💼 Former **Java Developer Intern @ Infosys** — worked on *InsurAI*, a Spring Boot full-stack app for insurance claim risk prediction (backend APIs, frontend integration, ML model deployment)
-- 📊 Former **Data Science Intern @ SmartED** — built a disease prediction model
+- 💼 Former **Java Developer Intern @Infosys** — worked on *InsurAI*, a Spring Boot full-stack app for insurance claim risk prediction (backend APIs, frontend integration, ML model deployment)
+- 📊 Former **Data Science Intern @SmartED** — built a disease prediction model
 - 🏆 **Semi-Finalist**, The Economic Times AI Hackathon 2026
 - 📜 **NPTEL Elite + Gold** certified in Java (90%)
 - 🌱 Sharpening skills in **DSA, web scraping, and cloud computing**
