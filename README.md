@@ -77,13 +77,7 @@ I'm a **Final Year B.Tech student in Artificial Intelligence &amp; Data Science*
       <img src="https://img.shields.io/badge/LLaMA%203.3%2070B-Groq%20API-8A2BE2?style=flat-square" />
     </td>
   </tr>
-  <tr>
-    <td align="right"><b>Database &amp; Cloud</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
-    </td>
-  </tr>
+
   <tr>
     <td align="right"><b>Tools</b></td>
     <td align="left">
@@ -96,13 +90,7 @@ I'm a **Final Year B.Tech student in Artificial Intelligence &amp; Data Science*
 
 ---
 
-### 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ponshivavel&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="95%"/>
-</p>
-
----
 
 ### 📌 Featured Projects
 
@@ -136,19 +124,6 @@ I'm a **Final Year B.Tech student in Artificial Intelligence &amp; Data Science*
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponshivavel&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponshivavel&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponshivavel&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
