@@ -1,176 +1,251 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ponshivavel%20S%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Applications;Full-Stack+%2B+Applied+AI+%2F+LLMs;Turning+Data+into+Real-World+Solutions;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ponshivavel-sk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ponshivavel/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/ponshivavelsk" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/ponshivavelsk" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="mailto:ponshivavelsk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header" width="100%"/>
-
-### 🚀 About Me
-
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="300"/>
-
-I'm a **Final Year B.Tech student in Artificial Intelligence & Data Science** at V.S.B Engineering College, Karur, building intelligent, production-ready applications at the intersection of **AI and full-stack development**.
-
-- 🔭 Currently focused on **applied AI/LLM systems**, backend engineering, and interview-ready DSA
-- 💼 Former **Java Developer Intern @Infosys** — worked on *InsurAI*, a Spring Boot full-stack app for insurance claim risk prediction
-- 📊 Former **Data Science Intern @SmartED** — built a disease prediction model
-- 🏆 **Semi-Finalist**, The Economic Times AI Hackathon 2026
-- 📜 **NPTEL Elite + Gold** certified in Java (90%)
-- 🌱 Sharpening skills in **DSA, web scraping, and cloud computing**
-- 🎯 Long-term goal: become a **senior engineer specializing in applied AI/LLMs** and eventually build my own tech product
-- 📍 Based in Erode, Tamil Nadu, India
-
-<br clear="both"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header" width="100%"/>
-
----
-
-### 🛠️ Tech Stack
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=💻%20Languages%20%26%20Core&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=⚙️%20Backend%20%26%20APIs&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🎨%20Frontend&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🤖%20AI%20%2F%20ML%20%26%20Data&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA%203.3%2070B-Groq%20API-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🗄️%20Databases%20%26%20Cloud&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🔧%20Dev%20Tools&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header" width="100%"/>
-
-### 📌 Featured Projects
-
-<!-- PROJECT 1 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🔹%20AI-Powered%20Social%20Media%20Trend%20Analysis%20Dashboard&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq_API_(LLaMA_3.3_70B)-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NewsAPI-2D2D2D?style=flat-square&logo=newsapi&logoColor=white"/>
-</p>
-
-> Led a 4-member team to build an end-to-end trend intelligence dashboard with real-time sentiment analysis and AI-driven insights.
+<div align="center">
 
 <br/>
 
-<!-- PROJECT 2 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🔹%20AI%20News%20Brain%20(Hackathon%20Project)&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<h1>Ponshivavel S K</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<h3>AI &amp; Data Science Engineer &nbsp;·&nbsp; Full-Stack Developer</h3>
+
+<p>I build LLM-powered products end to end: from the model, to the API, to the interface people actually use.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ponshivavel-sk/"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ponshivavelsk@gmail.com"><img src="https://img.shields.io/badge/Email-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.kaggle.com/ponshivavelsk"><img src="https://img.shields.io/badge/Kaggle-0e75b6?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/u/ponshivavel/"><img src="https://img.shields.io/badge/LeetCode-0e75b6?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/ponshivavelsk"><img src="https://img.shields.io/badge/HackerRank-0e75b6?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-> A full-stack market intelligence app with a multi-agent architecture requiring zero external API keys.
+<p>
+  <a href="#about"><kbd>&nbsp;About&nbsp;</kbd></a>
+  <a href="#experience"><kbd>&nbsp;Experience&nbsp;</kbd></a>
+  <a href="#featured-projects"><kbd>&nbsp;Projects&nbsp;</kbd></a>
+  <a href="#technical-stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
+  <a href="#recognition"><kbd>&nbsp;Recognition&nbsp;</kbd></a>
+  <a href="#contact"><kbd>&nbsp;Contact&nbsp;</kbd></a>
+</p>
 
 <br/>
 
-<!-- PROJECT 3 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🔹%20Digital%20Health%20Record%20Management%20System&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
-> Designed a health record platform for migrant workers with an optional AI/ML layer for predictive diagnostics.
-
-<br/>
-
-<!-- PROJECT 4 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=40&section=header&text=🔹%20InsurAI%20—%20Insurance%20Claim%20Risk%20Prediction%20(Infosys)&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML_Deployment-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-
-> Full-stack Spring Boot application predicting insurance claim risk, integrating backend APIs with an ML model and a connected frontend.
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header" width="100%"/>
+## About
 
-### 📄 Resume
+Final-year B.Tech student in **Artificial Intelligence &amp; Data Science** at V.S.B Engineering College. I work where machine learning meets production engineering: designing APIs, wiring models into real products, and shipping interfaces on top.
 
-<p align="center">
-  <a href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/>
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Focus</b><br/>
+      Applied AI and LLM systems, backend engineering, and interview-grade data structures &amp; algorithms.
+    </td>
+    <td width="50%" valign="top">
+      <b>Trajectory</b><br/>
+      Senior engineer specializing in applied AI/LLMs, then building a product of my own.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Currently sharpening</b><br/>
+      DSA, web scraping, and cloud computing.
+    </td>
+    <td width="50%" valign="top">
+      <b>Based in</b><br/>
+      Erode, Tamil Nadu, India &nbsp;·&nbsp; Open to opportunities
+    </td>
+  </tr>
+</table>
+
+---
+
+## Experience
+
+<details>
+<summary><b>Java Full Stack Developer Intern</b> &nbsp;·&nbsp; Infosys &nbsp;<kbd>InsurAI</kbd></summary>
+<br/>
+
+Built **InsurAI**, a full-stack platform that predicts insurance claim risk by connecting a machine learning model to a production-style application.
+
+- Developed secured backend APIs with **Spring Boot** and **JWT** authentication
+- Integrated an ML model into the API layer so predictions are served in real time
+- Built the **React** frontend and **SQL** data layer that connect end to end
+
+<sub>Java · Spring Boot · React · SQL · JWT · ML deployment</sub>
+<br/><br/>
+</details>
+
+<details>
+<summary><b>Data Science Intern</b> &nbsp;·&nbsp; SmartED &nbsp;<kbd>Disease Prediction</kbd></summary>
+<br/>
+
+Built a **disease prediction model**, covering the full workflow from data preparation and feature work to model training and evaluation.
+
+<sub>Python · Pandas · NumPy · Scikit-learn</sub>
+<br/><br/>
+</details>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Social Media Trend Analysis Dashboard</h3>
+      <p>Led a 4-member team to ship an end-to-end trend intelligence platform: live sentiment analysis with LLM-generated insights, so raw social chatter becomes decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-0e75b6?style=flat-square" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React-0e75b6?style=flat-square" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-0e75b6?style=flat-square" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/LLaMA_3.3_70B-0e75b6?style=flat-square" alt="LLaMA 3.3 70B"/>
+        <img src="https://img.shields.io/badge/Groq-0e75b6?style=flat-square" alt="Groq"/>
+      </p>
+      <!-- TODO: replace with your real repo URL -->
+      <a href="https://github.com/ponshivavel/REPO-NAME"><kbd>&nbsp;Source&nbsp;</kbd></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI News Brain</h3>
+      <p>Hackathon-built market intelligence app powered by a multi-agent architecture that runs with <b>zero external API keys</b>, so anyone can clone it and run it in minutes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-0e75b6?style=flat-square" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Vanilla_JS-0e75b6?style=flat-square" alt="Vanilla JS"/>
+        <img src="https://img.shields.io/badge/Multi--Agent-0e75b6?style=flat-square" alt="Multi-Agent"/>
+      </p>
+      <!-- TODO: replace with your real repo URL -->
+      <a href="https://github.com/ponshivavel/REPO-NAME"><kbd>&nbsp;Source&nbsp;</kbd></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>InsurAI &mdash; Claim Risk Prediction</h3>
+      <p>Enterprise-style Spring Boot application, built during my Infosys internship, that scores insurance claim risk by serving an ML model through secured backend APIs to a connected frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0e75b6?style=flat-square" alt="Java"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-0e75b6?style=flat-square" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/React-0e75b6?style=flat-square" alt="React"/>
+        <img src="https://img.shields.io/badge/JWT-0e75b6?style=flat-square" alt="JWT"/>
+      </p>
+      <sub>Internship project</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital Health Record System</h3>
+      <p>A health record platform designed for migrant workers, giving people who move often a single portable record, with an optional AI/ML layer for predictive diagnostics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0e75b6?style=flat-square" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-0e75b6?style=flat-square" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-0e75b6?style=flat-square" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/AWS-0e75b6?style=flat-square" alt="AWS"/>
+      </p>
+      <!-- TODO: replace with your real repo URL -->
+      <a href="https://github.com/ponshivavel/REPO-NAME"><kbd>&nbsp;Source&nbsp;</kbd></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/Java-0e75b6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Python-0e75b6?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-0e75b6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-0e75b6?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>AI / ML &amp; Data</b><br/><br/>
+      <img src="https://img.shields.io/badge/Scikit--learn-0e75b6?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-0e75b6?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-0e75b6?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0e75b6?style=flat-square" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/LLaMA_3.3_70B-0e75b6?style=flat-square" alt="LLaMA 3.3 70B"/>
+      <img src="https://img.shields.io/badge/Groq_API-0e75b6?style=flat-square" alt="Groq API"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend &amp; APIs</b><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-0e75b6?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/FastAPI-0e75b6?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Node.js-0e75b6?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/REST-0e75b6?style=flat-square&logo=postman&logoColor=white" alt="REST"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>Frontend</b><br/><br/>
+      <img src="https://img.shields.io/badge/React-0e75b6?style=flat-square&logo=react&logoColor=white" alt="React"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0e75b6?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/HTML5-0e75b6?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-0e75b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Data &amp; Cloud</b><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0e75b6?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-0e75b6?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/AWS-0e75b6?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Firebase-0e75b6?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>Tooling</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-0e75b6?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-0e75b6?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-0e75b6?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Postman-0e75b6?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/VS_Code-0e75b6?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>How I work with this stack</b></summary>
+<br/>
+
+- **Model to product:** I treat ML as one component in a system. That means clean API contracts, authentication, and a UI that makes predictions usable.
+- **LLM applications:** Prompted and orchestrated LLaMA 3.3 70B through Groq for sentiment and insight generation, and built agent-style pipelines that run without external keys.
+- **Backend range:** Comfortable in both the JVM ecosystem (Spring Boot) and the Python ecosystem (FastAPI), choosing per project rather than by habit.
+
+<br/>
+</details>
+
+---
+
+## Recognition
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Semi-Finalist</b><br/>
+      The Economic Times AI Hackathon 2026
+    </td>
+    <td width="50%" valign="top">
+      <b>NPTEL Elite + Gold</b><br/>
+      Java certification, 90%
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contact
+
+<div align="center">
+
+<p>Open to <b>AI/ML engineering</b> and <b>full-stack</b> roles, and always up for a conversation about applied LLM systems.</p>
+
+<p>
+  <a href="mailto:ponshivavelsk@gmail.com"><kbd>&nbsp;Email me&nbsp;</kbd></a>
+  <a href="https://www.linkedin.com/in/ponshivavel-sk/"><kbd>&nbsp;Connect on LinkedIn&nbsp;</kbd></a>
+  <a href="https://docs.google.com/document/d/1lJXFyhwYJjC2z8GB-yWnh2eG55tRgWSCgGCHJcqIJZ0/edit?usp=sharing"><kbd>&nbsp;View Résumé&nbsp;</kbd></a>
 </p>
 
-<p align="center">
-  <i>🚀 Passionate Learner &nbsp;|&nbsp; 💻 AI & Backend Developer &nbsp;|&nbsp; 📊 Exploring Data-Driven Innovation</i>
-</p>
+<sub>
+  <img src="https://komarev.com/ghpvc/?username=ponshivavel&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+</div>
